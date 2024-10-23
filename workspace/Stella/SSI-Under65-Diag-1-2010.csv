@@ -1,0 +1,1381 @@
+SSA REGION   ,DIAG. GROUP,AGE  ,SEX,RECIPIENTS
+Atlanta      ,AUTISTIC   , <18 ,F  ,      3307
+Atlanta      ,AUTISTIC   , <18 ,M  ,     13578
+Atlanta      ,AUTISTIC   ,18-39,F  ,      1588
+Atlanta      ,AUTISTIC   ,18-39,M  ,      6462
+Atlanta      ,AUTISTIC   ,40-64,F  ,        94
+Atlanta      ,AUTISTIC   ,40-64,M  ,       165
+Atlanta      ,BLOOD      , <18 ,F  ,      2119
+Atlanta      ,BLOOD      , <18 ,M  ,      2687
+Atlanta      ,BLOOD      ,18-39,F  ,      2151
+Atlanta      ,BLOOD      ,18-39,M  ,      2003
+Atlanta      ,BLOOD      ,40-64,F  ,      1175
+Atlanta      ,BLOOD      ,40-64,M  ,       588
+Atlanta      ,CHILDHOOD  , <18 ,F  ,     13265
+Atlanta      ,CHILDHOOD  , <18 ,M  ,     46847
+Atlanta      ,CHILDHOOD  ,18-39,F  ,      2531
+Atlanta      ,CHILDHOOD  ,18-39,M  ,      7798
+Atlanta      ,CHILDHOOD  ,40-64,F  ,        93
+Atlanta      ,CHILDHOOD  ,40-64,M  ,       115
+Atlanta      ,CIRCUL     , <18 ,F  ,       826
+Atlanta      ,CIRCUL     , <18 ,M  ,       969
+Atlanta      ,CIRCUL     ,18-39,F  ,      2064
+Atlanta      ,CIRCUL     ,18-39,M  ,      1967
+Atlanta      ,CIRCUL     ,40-64,F  ,     23794
+Atlanta      ,CIRCUL     ,40-64,M  ,     23754
+Atlanta      ,CONGEN     , <18 ,F  ,      6783
+Atlanta      ,CONGEN     , <18 ,M  ,      7945
+Atlanta      ,CONGEN     ,18-39,F  ,      2998
+Atlanta      ,CONGEN     ,18-39,M  ,      3046
+Atlanta      ,CONGEN     ,40-64,F  ,       691
+Atlanta      ,CONGEN     ,40-64,M  ,       510
+Atlanta      ,DEVELOP    , <18 ,F  ,     17733
+Atlanta      ,DEVELOP    , <18 ,M  ,     41076
+Atlanta      ,DEVELOP    ,18-39,F  ,      1787
+Atlanta      ,DEVELOP    ,18-39,M  ,      3078
+Atlanta      ,DEVELOP    ,40-64,F  ,       212
+Atlanta      ,DEVELOP    ,40-64,M  ,       214
+Atlanta      ,DIGEST     , <18 ,F  ,      1502
+Atlanta      ,DIGEST     , <18 ,M  ,      1892
+Atlanta      ,DIGEST     ,18-39,F  ,      1052
+Atlanta      ,DIGEST     ,18-39,M  ,       767
+Atlanta      ,DIGEST     ,40-64,F  ,      4573
+Atlanta      ,DIGEST     ,40-64,M  ,      4141
+Atlanta      ,ENDOCR     , <18 ,F  ,       934
+Atlanta      ,ENDOCR     , <18 ,M  ,       998
+Atlanta      ,ENDOCR     ,18-39,F  ,      2927
+Atlanta      ,ENDOCR     ,18-39,M  ,      1801
+Atlanta      ,ENDOCR     ,40-64,F  ,     20691
+Atlanta      ,ENDOCR     ,40-64,M  ,      6390
+Atlanta      ,GENITO     , <18 ,F  ,       334
+Atlanta      ,GENITO     , <18 ,M  ,       571
+Atlanta      ,GENITO     ,18-39,F  ,      1773
+Atlanta      ,GENITO     ,18-39,M  ,      1830
+Atlanta      ,GENITO     ,40-64,F  ,      3862
+Atlanta      ,GENITO     ,40-64,M  ,      3583
+Atlanta      ,INFECT     , <18 ,F  ,       226
+Atlanta      ,INFECT     , <18 ,M  ,       230
+Atlanta      ,INFECT     ,18-39,F  ,      1418
+Atlanta      ,INFECT     ,18-39,M  ,      1412
+Atlanta      ,INFECT     ,40-64,F  ,      5829
+Atlanta      ,INFECT     ,40-64,M  ,      6855
+Atlanta      ,INJURY     , <18 ,F  ,       635
+Atlanta      ,INJURY     , <18 ,M  ,       976
+Atlanta      ,INJURY     ,18-39,F  ,      2890
+Atlanta      ,INJURY     ,18-39,M  ,      5415
+Atlanta      ,INJURY     ,40-64,F  ,      8331
+Atlanta      ,INJURY     ,40-64,M  ,     12266
+Atlanta      ,INTELLECT  , <18 ,F  ,     13131
+Atlanta      ,INTELLECT  , <18 ,M  ,     22673
+Atlanta      ,INTELLECT  ,18-39,F  ,     62400
+Atlanta      ,INTELLECT  ,18-39,M  ,     70089
+Atlanta      ,INTELLECT  ,40-64,F  ,     58011
+Atlanta      ,INTELLECT  ,40-64,M  ,     47549
+Atlanta      ,MENTALOTHER, <18 ,F  ,      2948
+Atlanta      ,MENTALOTHER, <18 ,M  ,      5351
+Atlanta      ,MENTALOTHER,18-39,F  ,      9552
+Atlanta      ,MENTALOTHER,18-39,M  ,      8470
+Atlanta      ,MENTALOTHER,40-64,F  ,     17801
+Atlanta      ,MENTALOTHER,40-64,M  ,      8687
+Atlanta      ,MOOD       , <18 ,F  ,      2526
+Atlanta      ,MOOD       , <18 ,M  ,      4085
+Atlanta      ,MOOD       ,18-39,F  ,     25814
+Atlanta      ,MOOD       ,18-39,M  ,     13873
+Atlanta      ,MOOD       ,40-64,F  ,     76140
+Atlanta      ,MOOD       ,40-64,M  ,     21364
+Atlanta      ,MUSCUL     , <18 ,F  ,      1111
+Atlanta      ,MUSCUL     , <18 ,M  ,      1007
+Atlanta      ,MUSCUL     ,18-39,F  ,      7079
+Atlanta      ,MUSCUL     ,18-39,M  ,      3944
+Atlanta      ,MUSCUL     ,40-64,F  ,     68106
+Atlanta      ,MUSCUL     ,40-64,M  ,     39748
+Atlanta      ,NEOPLA     , <18 ,F  ,      1554
+Atlanta      ,NEOPLA     , <18 ,M  ,      1881
+Atlanta      ,NEOPLA     ,18-39,F  ,      1439
+Atlanta      ,NEOPLA     ,18-39,M  ,      1271
+Atlanta      ,NEOPLA     ,40-64,F  ,      7074
+Atlanta      ,NEOPLA     ,40-64,M  ,      5327
+Atlanta      ,NERVOUS    , <18 ,F  ,     10146
+Atlanta      ,NERVOUS    , <18 ,M  ,     12751
+Atlanta      ,NERVOUS    ,18-39,F  ,     18085
+Atlanta      ,NERVOUS    ,18-39,M  ,     18287
+Atlanta      ,NERVOUS    ,40-64,F  ,     22841
+Atlanta      ,NERVOUS    ,40-64,M  ,     16009
+Atlanta      ,ORGANIC    , <18 ,F  ,      2137
+Atlanta      ,ORGANIC    , <18 ,M  ,      4517
+Atlanta      ,ORGANIC    ,18-39,F  ,      6666
+Atlanta      ,ORGANIC    ,18-39,M  ,     11215
+Atlanta      ,ORGANIC    ,40-64,F  ,     12814
+Atlanta      ,ORGANIC    ,40-64,M  ,     14815
+Atlanta      ,OTHER      , <18 ,F  ,     14481
+Atlanta      ,OTHER      , <18 ,M  ,     17768
+Atlanta      ,OTHER      ,18-39,F  ,       813
+Atlanta      ,OTHER      ,18-39,M  ,      1210
+Atlanta      ,OTHER      ,40-64,F  ,       517
+Atlanta      ,OTHER      ,40-64,M  ,       356
+Atlanta      ,RESPIR     , <18 ,F  ,      4340
+Atlanta      ,RESPIR     , <18 ,M  ,      7451
+Atlanta      ,RESPIR     ,18-39,F  ,      1502
+Atlanta      ,RESPIR     ,18-39,M  ,      1017
+Atlanta      ,RESPIR     ,40-64,F  ,     14574
+Atlanta      ,RESPIR     ,40-64,M  ,      7711
+Atlanta      ,SCHIZO     , <18 ,F  ,       367
+Atlanta      ,SCHIZO     , <18 ,M  ,       560
+Atlanta      ,SCHIZO     ,18-39,F  ,      8318
+Atlanta      ,SCHIZO     ,18-39,M  ,     18897
+Atlanta      ,SCHIZO     ,40-64,F  ,     25536
+Atlanta      ,SCHIZO     ,40-64,M  ,     26884
+Atlanta      ,SKIN       , <18 ,F  ,       424
+Atlanta      ,SKIN       , <18 ,M  ,       377
+Atlanta      ,SKIN       ,18-39,F  ,       378
+Atlanta      ,SKIN       ,18-39,M  ,       198
+Atlanta      ,SKIN       ,40-64,F  ,       895
+Atlanta      ,SKIN       ,40-64,M  ,       441
+Atlanta      ,UNKNOWN    , <18 ,F  ,      3389
+Atlanta      ,UNKNOWN    , <18 ,M  ,      5156
+Atlanta      ,UNKNOWN    ,18-39,F  ,      2690
+Atlanta      ,UNKNOWN    ,18-39,M  ,      2760
+Atlanta      ,UNKNOWN    ,40-64,F  ,     18738
+Atlanta      ,UNKNOWN    ,40-64,M  ,     13673
+Boston       ,AUTISTIC   , <18 ,F  ,      1019
+Boston       ,AUTISTIC   , <18 ,M  ,      4538
+Boston       ,AUTISTIC   ,18-39,F  ,       830
+Boston       ,AUTISTIC   ,18-39,M  ,      3187
+Boston       ,AUTISTIC   ,40-64,F  ,        45
+Boston       ,AUTISTIC   ,40-64,M  ,       105
+Boston       ,BLOOD      , <18 ,F  ,       153
+Boston       ,BLOOD      , <18 ,M  ,       186
+Boston       ,BLOOD      ,18-39,F  ,       151
+Boston       ,BLOOD      ,18-39,M  ,       152
+Boston       ,BLOOD      ,40-64,F  ,       112
+Boston       ,BLOOD      ,40-64,M  ,        62
+Boston       ,CHILDHOOD  , <18 ,F  ,      1549
+Boston       ,CHILDHOOD  , <18 ,M  ,      6175
+Boston       ,CHILDHOOD  ,18-39,F  ,       536
+Boston       ,CHILDHOOD  ,18-39,M  ,      1813
+Boston       ,CHILDHOOD  ,40-64,F  ,        72
+Boston       ,CHILDHOOD  ,40-64,M  ,        63
+Boston       ,CIRCUL     , <18 ,F  ,        66
+Boston       ,CIRCUL     , <18 ,M  ,        76
+Boston       ,CIRCUL     ,18-39,F  ,       238
+Boston       ,CIRCUL     ,18-39,M  ,       236
+Boston       ,CIRCUL     ,40-64,F  ,      2552
+Boston       ,CIRCUL     ,40-64,M  ,      2740
+Boston       ,CONGEN     , <18 ,F  ,       980
+Boston       ,CONGEN     , <18 ,M  ,      1082
+Boston       ,CONGEN     ,18-39,F  ,       591
+Boston       ,CONGEN     ,18-39,M  ,       588
+Boston       ,CONGEN     ,40-64,F  ,       164
+Boston       ,CONGEN     ,40-64,M  ,       107
+Boston       ,DEVELOP    , <18 ,F  ,      2421
+Boston       ,DEVELOP    , <18 ,M  ,      5555
+Boston       ,DEVELOP    ,18-39,F  ,       625
+Boston       ,DEVELOP    ,18-39,M  ,       984
+Boston       ,DEVELOP    ,40-64,F  ,        98
+Boston       ,DEVELOP    ,40-64,M  ,       130
+Boston       ,DIGEST     , <18 ,F  ,       154
+Boston       ,DIGEST     , <18 ,M  ,       172
+Boston       ,DIGEST     ,18-39,F  ,       160
+Boston       ,DIGEST     ,18-39,M  ,       120
+Boston       ,DIGEST     ,40-64,F  ,       789
+Boston       ,DIGEST     ,40-64,M  ,       771
+Boston       ,ENDOCR     , <18 ,F  ,       169
+Boston       ,ENDOCR     , <18 ,M  ,       188
+Boston       ,ENDOCR     ,18-39,F  ,       332
+Boston       ,ENDOCR     ,18-39,M  ,       253
+Boston       ,ENDOCR     ,40-64,F  ,      2865
+Boston       ,ENDOCR     ,40-64,M  ,      1147
+Boston       ,GENITO     , <18 ,F  ,        41
+Boston       ,GENITO     , <18 ,M  ,        70
+Boston       ,GENITO     ,18-39,F  ,       202
+Boston       ,GENITO     ,18-39,M  ,       190
+Boston       ,GENITO     ,40-64,F  ,       442
+Boston       ,GENITO     ,40-64,M  ,       409
+Boston       ,INFECT     , <18 ,F  ,        28
+Boston       ,INFECT     , <18 ,M  ,        35
+Boston       ,INFECT     ,18-39,F  ,       211
+Boston       ,INFECT     ,18-39,M  ,       193
+Boston       ,INFECT     ,40-64,F  ,      1347
+Boston       ,INFECT     ,40-64,M  ,      1575
+Boston       ,INJURY     , <18 ,F  ,        71
+Boston       ,INJURY     , <18 ,M  ,        93
+Boston       ,INJURY     ,18-39,F  ,       351
+Boston       ,INJURY     ,18-39,M  ,       793
+Boston       ,INJURY     ,40-64,F  ,      1257
+Boston       ,INJURY     ,40-64,M  ,      1868
+Boston       ,INTELLECT  , <18 ,F  ,       917
+Boston       ,INTELLECT  , <18 ,M  ,      1567
+Boston       ,INTELLECT  ,18-39,F  ,      9313
+Boston       ,INTELLECT  ,18-39,M  ,      9960
+Boston       ,INTELLECT  ,40-64,F  ,      7452
+Boston       ,INTELLECT  ,40-64,M  ,      6709
+Boston       ,MENTALOTHER, <18 ,F  ,       809
+Boston       ,MENTALOTHER, <18 ,M  ,      1282
+Boston       ,MENTALOTHER,18-39,F  ,      7105
+Boston       ,MENTALOTHER,18-39,M  ,      4477
+Boston       ,MENTALOTHER,40-64,F  ,     11663
+Boston       ,MENTALOTHER,40-64,M  ,      5384
+Boston       ,MOOD       , <18 ,F  ,       904
+Boston       ,MOOD       , <18 ,M  ,      1735
+Boston       ,MOOD       ,18-39,F  ,     11756
+Boston       ,MOOD       ,18-39,M  ,      6787
+Boston       ,MOOD       ,40-64,F  ,     26590
+Boston       ,MOOD       ,40-64,M  ,     10144
+Boston       ,MUSCUL     , <18 ,F  ,       169
+Boston       ,MUSCUL     , <18 ,M  ,       154
+Boston       ,MUSCUL     ,18-39,F  ,      1269
+Boston       ,MUSCUL     ,18-39,M  ,       711
+Boston       ,MUSCUL     ,40-64,F  ,     12576
+Boston       ,MUSCUL     ,40-64,M  ,      7683
+Boston       ,NEOPLA     , <18 ,F  ,       200
+Boston       ,NEOPLA     , <18 ,M  ,       253
+Boston       ,NEOPLA     ,18-39,F  ,       219
+Boston       ,NEOPLA     ,18-39,M  ,       221
+Boston       ,NEOPLA     ,40-64,F  ,       955
+Boston       ,NEOPLA     ,40-64,M  ,       715
+Boston       ,NERVOUS    , <18 ,F  ,      1551
+Boston       ,NERVOUS    , <18 ,M  ,      1999
+Boston       ,NERVOUS    ,18-39,F  ,      3318
+Boston       ,NERVOUS    ,18-39,M  ,      3644
+Boston       ,NERVOUS    ,40-64,F  ,      4574
+Boston       ,NERVOUS    ,40-64,M  ,      3212
+Boston       ,ORGANIC    , <18 ,F  ,       554
+Boston       ,ORGANIC    , <18 ,M  ,      1230
+Boston       ,ORGANIC    ,18-39,F  ,      1760
+Boston       ,ORGANIC    ,18-39,M  ,      2833
+Boston       ,ORGANIC    ,40-64,F  ,      2349
+Boston       ,ORGANIC    ,40-64,M  ,      3315
+Boston       ,OTHER      , <18 ,F  ,      1581
+Boston       ,OTHER      , <18 ,M  ,      1727
+Boston       ,OTHER      ,18-39,F  ,       149
+Boston       ,OTHER      ,18-39,M  ,       177
+Boston       ,OTHER      ,40-64,F  ,       104
+Boston       ,OTHER      ,40-64,M  ,        92
+Boston       ,RESPIR     , <18 ,F  ,       461
+Boston       ,RESPIR     , <18 ,M  ,       920
+Boston       ,RESPIR     ,18-39,F  ,       284
+Boston       ,RESPIR     ,18-39,M  ,       155
+Boston       ,RESPIR     ,40-64,F  ,      2079
+Boston       ,RESPIR     ,40-64,M  ,      1013
+Boston       ,SCHIZO     , <18 ,F  ,        65
+Boston       ,SCHIZO     , <18 ,M  ,       152
+Boston       ,SCHIZO     ,18-39,F  ,      1539
+Boston       ,SCHIZO     ,18-39,M  ,      4341
+Boston       ,SCHIZO     ,40-64,F  ,      5305
+Boston       ,SCHIZO     ,40-64,M  ,      7001
+Boston       ,SKIN       , <18 ,F  ,        36
+Boston       ,SKIN       , <18 ,M  ,        27
+Boston       ,SKIN       ,18-39,F  ,        59
+Boston       ,SKIN       ,18-39,M  ,        37
+Boston       ,SKIN       ,40-64,F  ,       150
+Boston       ,SKIN       ,40-64,M  ,        77
+Boston       ,UNKNOWN    , <18 ,F  ,       322
+Boston       ,UNKNOWN    , <18 ,M  ,       484
+Boston       ,UNKNOWN    ,18-39,F  ,       520
+Boston       ,UNKNOWN    ,18-39,M  ,       496
+Boston       ,UNKNOWN    ,40-64,F  ,      3741
+Boston       ,UNKNOWN    ,40-64,M  ,      2470
+Chicago      ,AUTISTIC   , <18 ,F  ,      2512
+Chicago      ,AUTISTIC   , <18 ,M  ,     11353
+Chicago      ,AUTISTIC   ,18-39,F  ,      2023
+Chicago      ,AUTISTIC   ,18-39,M  ,      8359
+Chicago      ,AUTISTIC   ,40-64,F  ,        85
+Chicago      ,AUTISTIC   ,40-64,M  ,       211
+Chicago      ,BLOOD      , <18 ,F  ,       886
+Chicago      ,BLOOD      , <18 ,M  ,      1075
+Chicago      ,BLOOD      ,18-39,F  ,       919
+Chicago      ,BLOOD      ,18-39,M  ,       908
+Chicago      ,BLOOD      ,40-64,F  ,       598
+Chicago      ,BLOOD      ,40-64,M  ,       305
+Chicago      ,CHILDHOOD  , <18 ,F  ,      6569
+Chicago      ,CHILDHOOD  , <18 ,M  ,     25425
+Chicago      ,CHILDHOOD  ,18-39,F  ,      1687
+Chicago      ,CHILDHOOD  ,18-39,M  ,      5416
+Chicago      ,CHILDHOOD  ,40-64,F  ,        86
+Chicago      ,CHILDHOOD  ,40-64,M  ,       103
+Chicago      ,CIRCUL     , <18 ,F  ,       431
+Chicago      ,CIRCUL     , <18 ,M  ,       459
+Chicago      ,CIRCUL     ,18-39,F  ,      1199
+Chicago      ,CIRCUL     ,18-39,M  ,      1269
+Chicago      ,CIRCUL     ,40-64,F  ,     12507
+Chicago      ,CIRCUL     ,40-64,M  ,     13544
+Chicago      ,CONGEN     , <18 ,F  ,      4635
+Chicago      ,CONGEN     , <18 ,M  ,      5440
+Chicago      ,CONGEN     ,18-39,F  ,      2486
+Chicago      ,CONGEN     ,18-39,M  ,      2778
+Chicago      ,CONGEN     ,40-64,F  ,       447
+Chicago      ,CONGEN     ,40-64,M  ,       388
+Chicago      ,DEVELOP    , <18 ,F  ,     12575
+Chicago      ,DEVELOP    , <18 ,M  ,     28768
+Chicago      ,DEVELOP    ,18-39,F  ,      1536
+Chicago      ,DEVELOP    ,18-39,M  ,      2410
+Chicago      ,DEVELOP    ,40-64,F  ,       187
+Chicago      ,DEVELOP    ,40-64,M  ,       232
+Chicago      ,DIGEST     , <18 ,F  ,       969
+Chicago      ,DIGEST     , <18 ,M  ,      1216
+Chicago      ,DIGEST     ,18-39,F  ,       632
+Chicago      ,DIGEST     ,18-39,M  ,       533
+Chicago      ,DIGEST     ,40-64,F  ,      2537
+Chicago      ,DIGEST     ,40-64,M  ,      2320
+Chicago      ,ENDOCR     , <18 ,F  ,       599
+Chicago      ,ENDOCR     , <18 ,M  ,       676
+Chicago      ,ENDOCR     ,18-39,F  ,      1764
+Chicago      ,ENDOCR     ,18-39,M  ,      1164
+Chicago      ,ENDOCR     ,40-64,F  ,     13954
+Chicago      ,ENDOCR     ,40-64,M  ,      4817
+Chicago      ,GENITO     , <18 ,F  ,       192
+Chicago      ,GENITO     , <18 ,M  ,       292
+Chicago      ,GENITO     ,18-39,F  ,       987
+Chicago      ,GENITO     ,18-39,M  ,      1235
+Chicago      ,GENITO     ,40-64,F  ,      2181
+Chicago      ,GENITO     ,40-64,M  ,      2397
+Chicago      ,INFECT     , <18 ,F  ,        85
+Chicago      ,INFECT     , <18 ,M  ,        89
+Chicago      ,INFECT     ,18-39,F  ,       433
+Chicago      ,INFECT     ,18-39,M  ,       637
+Chicago      ,INFECT     ,40-64,F  ,      2057
+Chicago      ,INFECT     ,40-64,M  ,      2951
+Chicago      ,INJURY     , <18 ,F  ,       440
+Chicago      ,INJURY     , <18 ,M  ,       616
+Chicago      ,INJURY     ,18-39,F  ,      1635
+Chicago      ,INJURY     ,18-39,M  ,      3609
+Chicago      ,INJURY     ,40-64,F  ,      4453
+Chicago      ,INJURY     ,40-64,M  ,      6895
+Chicago      ,INTELLECT  , <18 ,F  ,     10549
+Chicago      ,INTELLECT  , <18 ,M  ,     17322
+Chicago      ,INTELLECT  ,18-39,F  ,     47799
+Chicago      ,INTELLECT  ,18-39,M  ,     51873
+Chicago      ,INTELLECT  ,40-64,F  ,     34441
+Chicago      ,INTELLECT  ,40-64,M  ,     31362
+Chicago      ,MENTALOTHER, <18 ,F  ,      1982
+Chicago      ,MENTALOTHER, <18 ,M  ,      3950
+Chicago      ,MENTALOTHER,18-39,F  ,     11057
+Chicago      ,MENTALOTHER,18-39,M  ,      9683
+Chicago      ,MENTALOTHER,40-64,F  ,     17107
+Chicago      ,MENTALOTHER,40-64,M  ,     10214
+Chicago      ,MOOD       , <18 ,F  ,      2552
+Chicago      ,MOOD       , <18 ,M  ,      4604
+Chicago      ,MOOD       ,18-39,F  ,     29050
+Chicago      ,MOOD       ,18-39,M  ,     17010
+Chicago      ,MOOD       ,40-64,F  ,     68067
+Chicago      ,MOOD       ,40-64,M  ,     26080
+Chicago      ,MUSCUL     , <18 ,F  ,       692
+Chicago      ,MUSCUL     , <18 ,M  ,       607
+Chicago      ,MUSCUL     ,18-39,F  ,      4336
+Chicago      ,MUSCUL     ,18-39,M  ,      2550
+Chicago      ,MUSCUL     ,40-64,F  ,     40489
+Chicago      ,MUSCUL     ,40-64,M  ,     24668
+Chicago      ,NEOPLA     , <18 ,F  ,       962
+Chicago      ,NEOPLA     , <18 ,M  ,      1219
+Chicago      ,NEOPLA     ,18-39,F  ,       890
+Chicago      ,NEOPLA     ,18-39,M  ,       915
+Chicago      ,NEOPLA     ,40-64,F  ,      3895
+Chicago      ,NEOPLA     ,40-64,M  ,      2824
+Chicago      ,NERVOUS    , <18 ,F  ,      6635
+Chicago      ,NERVOUS    , <18 ,M  ,      8529
+Chicago      ,NERVOUS    ,18-39,F  ,     14034
+Chicago      ,NERVOUS    ,18-39,M  ,     14962
+Chicago      ,NERVOUS    ,40-64,F  ,     15567
+Chicago      ,NERVOUS    ,40-64,M  ,     11159
+Chicago      ,ORGANIC    , <18 ,F  ,      1195
+Chicago      ,ORGANIC    , <18 ,M  ,      2297
+Chicago      ,ORGANIC    ,18-39,F  ,      4844
+Chicago      ,ORGANIC    ,18-39,M  ,      8182
+Chicago      ,ORGANIC    ,40-64,F  ,      7833
+Chicago      ,ORGANIC    ,40-64,M  ,     10097
+Chicago      ,OTHER      , <18 ,F  ,      7803
+Chicago      ,OTHER      , <18 ,M  ,      9197
+Chicago      ,OTHER      ,18-39,F  ,       595
+Chicago      ,OTHER      ,18-39,M  ,       836
+Chicago      ,OTHER      ,40-64,F  ,       303
+Chicago      ,OTHER      ,40-64,M  ,       236
+Chicago      ,RESPIR     , <18 ,F  ,      1794
+Chicago      ,RESPIR     , <18 ,M  ,      3039
+Chicago      ,RESPIR     ,18-39,F  ,      1008
+Chicago      ,RESPIR     ,18-39,M  ,       692
+Chicago      ,RESPIR     ,40-64,F  ,      8581
+Chicago      ,RESPIR     ,40-64,M  ,      4690
+Chicago      ,SCHIZO     , <18 ,F  ,       229
+Chicago      ,SCHIZO     , <18 ,M  ,       374
+Chicago      ,SCHIZO     ,18-39,F  ,      6373
+Chicago      ,SCHIZO     ,18-39,M  ,     14927
+Chicago      ,SCHIZO     ,40-64,F  ,     20369
+Chicago      ,SCHIZO     ,40-64,M  ,     24825
+Chicago      ,SKIN       , <18 ,F  ,       124
+Chicago      ,SKIN       , <18 ,M  ,       173
+Chicago      ,SKIN       ,18-39,F  ,       220
+Chicago      ,SKIN       ,18-39,M  ,       153
+Chicago      ,SKIN       ,40-64,F  ,       469
+Chicago      ,SKIN       ,40-64,M  ,       324
+Chicago      ,UNKNOWN    , <18 ,F  ,      1196
+Chicago      ,UNKNOWN    , <18 ,M  ,      1850
+Chicago      ,UNKNOWN    ,18-39,F  ,      1826
+Chicago      ,UNKNOWN    ,18-39,M  ,      1886
+Chicago      ,UNKNOWN    ,40-64,F  ,     11073
+Chicago      ,UNKNOWN    ,40-64,M  ,      8482
+Dallas       ,AUTISTIC   , <18 ,F  ,      1907
+Dallas       ,AUTISTIC   , <18 ,M  ,      8558
+Dallas       ,AUTISTIC   ,18-39,F  ,      1063
+Dallas       ,AUTISTIC   ,18-39,M  ,      4434
+Dallas       ,AUTISTIC   ,40-64,F  ,        56
+Dallas       ,AUTISTIC   ,40-64,M  ,       119
+Dallas       ,BLOOD      , <18 ,F  ,       897
+Dallas       ,BLOOD      , <18 ,M  ,      1151
+Dallas       ,BLOOD      ,18-39,F  ,       882
+Dallas       ,BLOOD      ,18-39,M  ,       829
+Dallas       ,BLOOD      ,40-64,F  ,       568
+Dallas       ,BLOOD      ,40-64,M  ,       286
+Dallas       ,CHILDHOOD  , <18 ,F  ,     12184
+Dallas       ,CHILDHOOD  , <18 ,M  ,     40584
+Dallas       ,CHILDHOOD  ,18-39,F  ,      1396
+Dallas       ,CHILDHOOD  ,18-39,M  ,      3955
+Dallas       ,CHILDHOOD  ,40-64,F  ,        87
+Dallas       ,CHILDHOOD  ,40-64,M  ,        77
+Dallas       ,CIRCUL     , <18 ,F  ,       601
+Dallas       ,CIRCUL     , <18 ,M  ,       748
+Dallas       ,CIRCUL     ,18-39,F  ,      1200
+Dallas       ,CIRCUL     ,18-39,M  ,      1030
+Dallas       ,CIRCUL     ,40-64,F  ,     14785
+Dallas       ,CIRCUL     ,40-64,M  ,     13496
+Dallas       ,CONGEN     , <18 ,F  ,      4897
+Dallas       ,CONGEN     , <18 ,M  ,      5545
+Dallas       ,CONGEN     ,18-39,F  ,      1994
+Dallas       ,CONGEN     ,18-39,M  ,      2028
+Dallas       ,CONGEN     ,40-64,F  ,       386
+Dallas       ,CONGEN     ,40-64,M  ,       253
+Dallas       ,DEVELOP    , <18 ,F  ,     13675
+Dallas       ,DEVELOP    , <18 ,M  ,     31092
+Dallas       ,DEVELOP    ,18-39,F  ,      1262
+Dallas       ,DEVELOP    ,18-39,M  ,      2082
+Dallas       ,DEVELOP    ,40-64,F  ,       189
+Dallas       ,DEVELOP    ,40-64,M  ,       174
+Dallas       ,DIGEST     , <18 ,F  ,      1073
+Dallas       ,DIGEST     , <18 ,M  ,      1275
+Dallas       ,DIGEST     ,18-39,F  ,       561
+Dallas       ,DIGEST     ,18-39,M  ,       452
+Dallas       ,DIGEST     ,40-64,F  ,      2881
+Dallas       ,DIGEST     ,40-64,M  ,      2987
+Dallas       ,ENDOCR     , <18 ,F  ,       601
+Dallas       ,ENDOCR     , <18 ,M  ,       650
+Dallas       ,ENDOCR     ,18-39,F  ,      1689
+Dallas       ,ENDOCR     ,18-39,M  ,      1109
+Dallas       ,ENDOCR     ,40-64,F  ,     14301
+Dallas       ,ENDOCR     ,40-64,M  ,      4929
+Dallas       ,GENITO     , <18 ,F  ,       248
+Dallas       ,GENITO     , <18 ,M  ,       331
+Dallas       ,GENITO     ,18-39,F  ,      1198
+Dallas       ,GENITO     ,18-39,M  ,      1061
+Dallas       ,GENITO     ,40-64,F  ,      2875
+Dallas       ,GENITO     ,40-64,M  ,      2362
+Dallas       ,INFECT     , <18 ,F  ,       105
+Dallas       ,INFECT     , <18 ,M  ,        89
+Dallas       ,INFECT     ,18-39,F  ,       653
+Dallas       ,INFECT     ,18-39,M  ,       737
+Dallas       ,INFECT     ,40-64,F  ,      2292
+Dallas       ,INFECT     ,40-64,M  ,      3474
+Dallas       ,INJURY     , <18 ,F  ,       516
+Dallas       ,INJURY     , <18 ,M  ,       691
+Dallas       ,INJURY     ,18-39,F  ,      1858
+Dallas       ,INJURY     ,18-39,M  ,      3261
+Dallas       ,INJURY     ,40-64,F  ,      5319
+Dallas       ,INJURY     ,40-64,M  ,      7280
+Dallas       ,INTELLECT  , <18 ,F  ,      9031
+Dallas       ,INTELLECT  , <18 ,M  ,     14685
+Dallas       ,INTELLECT  ,18-39,F  ,     35564
+Dallas       ,INTELLECT  ,18-39,M  ,     39571
+Dallas       ,INTELLECT  ,40-64,F  ,     26201
+Dallas       ,INTELLECT  ,40-64,M  ,     22386
+Dallas       ,MENTALOTHER, <18 ,F  ,      2560
+Dallas       ,MENTALOTHER, <18 ,M  ,      4151
+Dallas       ,MENTALOTHER,18-39,F  ,      6356
+Dallas       ,MENTALOTHER,18-39,M  ,      5789
+Dallas       ,MENTALOTHER,40-64,F  ,      8354
+Dallas       ,MENTALOTHER,40-64,M  ,      4282
+Dallas       ,MOOD       , <18 ,F  ,      4305
+Dallas       ,MOOD       , <18 ,M  ,      6487
+Dallas       ,MOOD       ,18-39,F  ,     22059
+Dallas       ,MOOD       ,18-39,M  ,     12716
+Dallas       ,MOOD       ,40-64,F  ,     43833
+Dallas       ,MOOD       ,40-64,M  ,     14417
+Dallas       ,MUSCUL     , <18 ,F  ,       826
+Dallas       ,MUSCUL     , <18 ,M  ,       812
+Dallas       ,MUSCUL     ,18-39,F  ,      4258
+Dallas       ,MUSCUL     ,18-39,M  ,      2330
+Dallas       ,MUSCUL     ,40-64,F  ,     44652
+Dallas       ,MUSCUL     ,40-64,M  ,     26505
+Dallas       ,NEOPLA     , <18 ,F  ,      1119
+Dallas       ,NEOPLA     , <18 ,M  ,      1327
+Dallas       ,NEOPLA     ,18-39,F  ,       893
+Dallas       ,NEOPLA     ,18-39,M  ,       759
+Dallas       ,NEOPLA     ,40-64,F  ,      4328
+Dallas       ,NEOPLA     ,40-64,M  ,      2704
+Dallas       ,NERVOUS    , <18 ,F  ,      7264
+Dallas       ,NERVOUS    , <18 ,M  ,      9226
+Dallas       ,NERVOUS    ,18-39,F  ,     12255
+Dallas       ,NERVOUS    ,18-39,M  ,     12817
+Dallas       ,NERVOUS    ,40-64,F  ,     15553
+Dallas       ,NERVOUS    ,40-64,M  ,     10502
+Dallas       ,ORGANIC    , <18 ,F  ,       711
+Dallas       ,ORGANIC    , <18 ,M  ,      1430
+Dallas       ,ORGANIC    ,18-39,F  ,      2184
+Dallas       ,ORGANIC    ,18-39,M  ,      3935
+Dallas       ,ORGANIC    ,40-64,F  ,      4964
+Dallas       ,ORGANIC    ,40-64,M  ,      6268
+Dallas       ,OTHER      , <18 ,F  ,      7780
+Dallas       ,OTHER      , <18 ,M  ,      9308
+Dallas       ,OTHER      ,18-39,F  ,       596
+Dallas       ,OTHER      ,18-39,M  ,       780
+Dallas       ,OTHER      ,40-64,F  ,       299
+Dallas       ,OTHER      ,40-64,M  ,       186
+Dallas       ,RESPIR     , <18 ,F  ,      1571
+Dallas       ,RESPIR     , <18 ,M  ,      2825
+Dallas       ,RESPIR     ,18-39,F  ,       651
+Dallas       ,RESPIR     ,18-39,M  ,       404
+Dallas       ,RESPIR     ,40-64,F  ,      6487
+Dallas       ,RESPIR     ,40-64,M  ,      3444
+Dallas       ,SCHIZO     , <18 ,F  ,       295
+Dallas       ,SCHIZO     , <18 ,M  ,       492
+Dallas       ,SCHIZO     ,18-39,F  ,      5194
+Dallas       ,SCHIZO     ,18-39,M  ,     11477
+Dallas       ,SCHIZO     ,40-64,F  ,     13604
+Dallas       ,SCHIZO     ,40-64,M  ,     15822
+Dallas       ,SKIN       , <18 ,F  ,       175
+Dallas       ,SKIN       , <18 ,M  ,       186
+Dallas       ,SKIN       ,18-39,F  ,       211
+Dallas       ,SKIN       ,18-39,M  ,       110
+Dallas       ,SKIN       ,40-64,F  ,       555
+Dallas       ,SKIN       ,40-64,M  ,       266
+Dallas       ,UNKNOWN    , <18 ,F  ,      2085
+Dallas       ,UNKNOWN    , <18 ,M  ,      3060
+Dallas       ,UNKNOWN    ,18-39,F  ,      1264
+Dallas       ,UNKNOWN    ,18-39,M  ,      1302
+Dallas       ,UNKNOWN    ,40-64,F  ,      7207
+Dallas       ,UNKNOWN    ,40-64,M  ,      6014
+Denver       ,AUTISTIC   , <18 ,F  ,       407
+Denver       ,AUTISTIC   , <18 ,M  ,      1733
+Denver       ,AUTISTIC   ,18-39,F  ,       313
+Denver       ,AUTISTIC   ,18-39,M  ,      1150
+Denver       ,AUTISTIC   ,40-64,F  ,        17
+Denver       ,AUTISTIC   ,40-64,M  ,        36
+Denver       ,BLOOD      , <18 ,F  ,        28
+Denver       ,BLOOD      , <18 ,M  ,        48
+Denver       ,BLOOD      ,18-39,F  ,        29
+Denver       ,BLOOD      ,18-39,M  ,        35
+Denver       ,BLOOD      ,40-64,F  ,        43
+Denver       ,BLOOD      ,40-64,M  ,        28
+Denver       ,CHILDHOOD  , <18 ,F  ,       362
+Denver       ,CHILDHOOD  , <18 ,M  ,      1486
+Denver       ,CHILDHOOD  ,18-39,F  ,       127
+Denver       ,CHILDHOOD  ,18-39,M  ,       405
+Denver       ,CHILDHOOD  ,40-64,F  ,        29
+Denver       ,CHILDHOOD  ,40-64,M  ,        18
+Denver       ,CIRCUL     , <18 ,F  ,        78
+Denver       ,CIRCUL     , <18 ,M  ,        79
+Denver       ,CIRCUL     ,18-39,F  ,       150
+Denver       ,CIRCUL     ,18-39,M  ,       124
+Denver       ,CIRCUL     ,40-64,F  ,      1053
+Denver       ,CIRCUL     ,40-64,M  ,      1070
+Denver       ,CONGEN     , <18 ,F  ,       796
+Denver       ,CONGEN     , <18 ,M  ,       992
+Denver       ,CONGEN     ,18-39,F  ,       551
+Denver       ,CONGEN     ,18-39,M  ,       603
+Denver       ,CONGEN     ,40-64,F  ,        80
+Denver       ,CONGEN     ,40-64,M  ,        66
+Denver       ,DEVELOP    , <18 ,F  ,      1096
+Denver       ,DEVELOP    , <18 ,M  ,      2159
+Denver       ,DEVELOP    ,18-39,F  ,       176
+Denver       ,DEVELOP    ,18-39,M  ,       281
+Denver       ,DEVELOP    ,40-64,F  ,        56
+Denver       ,DEVELOP    ,40-64,M  ,        39
+Denver       ,DIGEST     , <18 ,F  ,       160
+Denver       ,DIGEST     , <18 ,M  ,       184
+Denver       ,DIGEST     ,18-39,F  ,       100
+Denver       ,DIGEST     ,18-39,M  ,        74
+Denver       ,DIGEST     ,40-64,F  ,       550
+Denver       ,DIGEST     ,40-64,M  ,       422
+Denver       ,ENDOCR     , <18 ,F  ,        98
+Denver       ,ENDOCR     , <18 ,M  ,        88
+Denver       ,ENDOCR     ,18-39,F  ,       198
+Denver       ,ENDOCR     ,18-39,M  ,       147
+Denver       ,ENDOCR     ,40-64,F  ,      1421
+Denver       ,ENDOCR     ,40-64,M  ,       568
+Denver       ,GENITO     , <18 ,F  ,        29
+Denver       ,GENITO     , <18 ,M  ,        50
+Denver       ,GENITO     ,18-39,F  ,       189
+Denver       ,GENITO     ,18-39,M  ,       167
+Denver       ,GENITO     ,40-64,F  ,       287
+Denver       ,GENITO     ,40-64,M  ,       234
+Denver       ,INFECT     , <18 ,F  ,         8
+Denver       ,INFECT     , <18 ,M  ,        10
+Denver       ,INFECT     ,18-39,F  ,        44
+Denver       ,INFECT     ,18-39,M  ,        48
+Denver       ,INFECT     ,40-64,F  ,       204
+Denver       ,INFECT     ,40-64,M  ,       329
+Denver       ,INJURY     , <18 ,F  ,        85
+Denver       ,INJURY     , <18 ,M  ,       103
+Denver       ,INJURY     ,18-39,F  ,       348
+Denver       ,INJURY     ,18-39,M  ,       593
+Denver       ,INJURY     ,40-64,F  ,       812
+Denver       ,INJURY     ,40-64,M  ,       997
+Denver       ,INTELLECT  , <18 ,F  ,       763
+Denver       ,INTELLECT  , <18 ,M  ,      1252
+Denver       ,INTELLECT  ,18-39,F  ,      5675
+Denver       ,INTELLECT  ,18-39,M  ,      5648
+Denver       ,INTELLECT  ,40-64,F  ,      3612
+Denver       ,INTELLECT  ,40-64,M  ,      2989
+Denver       ,MENTALOTHER, <18 ,F  ,       208
+Denver       ,MENTALOTHER, <18 ,M  ,       425
+Denver       ,MENTALOTHER,18-39,F  ,      1597
+Denver       ,MENTALOTHER,18-39,M  ,      1207
+Denver       ,MENTALOTHER,40-64,F  ,      2510
+Denver       ,MENTALOTHER,40-64,M  ,      1224
+Denver       ,MOOD       , <18 ,F  ,       219
+Denver       ,MOOD       , <18 ,M  ,       538
+Denver       ,MOOD       ,18-39,F  ,      2352
+Denver       ,MOOD       ,18-39,M  ,      1517
+Denver       ,MOOD       ,40-64,F  ,      6219
+Denver       ,MOOD       ,40-64,M  ,      2037
+Denver       ,MUSCUL     , <18 ,F  ,        89
+Denver       ,MUSCUL     , <18 ,M  ,       115
+Denver       ,MUSCUL     ,18-39,F  ,       651
+Denver       ,MUSCUL     ,18-39,M  ,       343
+Denver       ,MUSCUL     ,40-64,F  ,      6850
+Denver       ,MUSCUL     ,40-64,M  ,      3881
+Denver       ,NEOPLA     , <18 ,F  ,       135
+Denver       ,NEOPLA     , <18 ,M  ,       201
+Denver       ,NEOPLA     ,18-39,F  ,       142
+Denver       ,NEOPLA     ,18-39,M  ,       149
+Denver       ,NEOPLA     ,40-64,F  ,       488
+Denver       ,NEOPLA     ,40-64,M  ,       352
+Denver       ,NERVOUS    , <18 ,F  ,      1142
+Denver       ,NERVOUS    , <18 ,M  ,      1532
+Denver       ,NERVOUS    ,18-39,F  ,      2491
+Denver       ,NERVOUS    ,18-39,M  ,      2589
+Denver       ,NERVOUS    ,40-64,F  ,      2657
+Denver       ,NERVOUS    ,40-64,M  ,      1680
+Denver       ,ORGANIC    , <18 ,F  ,       252
+Denver       ,ORGANIC    , <18 ,M  ,       489
+Denver       ,ORGANIC    ,18-39,F  ,       823
+Denver       ,ORGANIC    ,18-39,M  ,      1372
+Denver       ,ORGANIC    ,40-64,F  ,      1247
+Denver       ,ORGANIC    ,40-64,M  ,      1372
+Denver       ,OTHER      , <18 ,F  ,      1090
+Denver       ,OTHER      , <18 ,M  ,      1207
+Denver       ,OTHER      ,18-39,F  ,        85
+Denver       ,OTHER      ,18-39,M  ,        91
+Denver       ,OTHER      ,40-64,F  ,        79
+Denver       ,OTHER      ,40-64,M  ,        33
+Denver       ,RESPIR     , <18 ,F  ,       170
+Denver       ,RESPIR     , <18 ,M  ,       309
+Denver       ,RESPIR     ,18-39,F  ,       108
+Denver       ,RESPIR     ,18-39,M  ,        56
+Denver       ,RESPIR     ,40-64,F  ,      1122
+Denver       ,RESPIR     ,40-64,M  ,       569
+Denver       ,SCHIZO     , <18 ,F  ,        28
+Denver       ,SCHIZO     , <18 ,M  ,        58
+Denver       ,SCHIZO     ,18-39,F  ,       816
+Denver       ,SCHIZO     ,18-39,M  ,      2236
+Denver       ,SCHIZO     ,40-64,F  ,      2240
+Denver       ,SCHIZO     ,40-64,M  ,      2928
+Denver       ,SKIN       , <18 ,F  ,        13
+Denver       ,SKIN       , <18 ,M  ,        14
+Denver       ,SKIN       ,18-39,F  ,        30
+Denver       ,SKIN       ,18-39,M  ,        18
+Denver       ,SKIN       ,40-64,F  ,        75
+Denver       ,SKIN       ,40-64,M  ,        45
+Denver       ,UNKNOWN    , <18 ,F  ,       264
+Denver       ,UNKNOWN    , <18 ,M  ,       377
+Denver       ,UNKNOWN    ,18-39,F  ,       237
+Denver       ,UNKNOWN    ,18-39,M  ,       224
+Denver       ,UNKNOWN    ,40-64,F  ,      1166
+Denver       ,UNKNOWN    ,40-64,M  ,       759
+Kansas City  ,AUTISTIC   , <18 ,F  ,       650
+Kansas City  ,AUTISTIC   , <18 ,M  ,      2804
+Kansas City  ,AUTISTIC   ,18-39,F  ,       462
+Kansas City  ,AUTISTIC   ,18-39,M  ,      1937
+Kansas City  ,AUTISTIC   ,40-64,F  ,        13
+Kansas City  ,AUTISTIC   ,40-64,M  ,        52
+Kansas City  ,BLOOD      , <18 ,F  ,       180
+Kansas City  ,BLOOD      , <18 ,M  ,       252
+Kansas City  ,BLOOD      ,18-39,F  ,       170
+Kansas City  ,BLOOD      ,18-39,M  ,       177
+Kansas City  ,BLOOD      ,40-64,F  ,       133
+Kansas City  ,BLOOD      ,40-64,M  ,        76
+Kansas City  ,CHILDHOOD  , <18 ,F  ,      1509
+Kansas City  ,CHILDHOOD  , <18 ,M  ,      5816
+Kansas City  ,CHILDHOOD  ,18-39,F  ,       419
+Kansas City  ,CHILDHOOD  ,18-39,M  ,      1347
+Kansas City  ,CHILDHOOD  ,40-64,F  ,        38
+Kansas City  ,CHILDHOOD  ,40-64,M  ,        33
+Kansas City  ,CIRCUL     , <18 ,F  ,       102
+Kansas City  ,CIRCUL     , <18 ,M  ,       120
+Kansas City  ,CIRCUL     ,18-39,F  ,       255
+Kansas City  ,CIRCUL     ,18-39,M  ,       283
+Kansas City  ,CIRCUL     ,40-64,F  ,      2687
+Kansas City  ,CIRCUL     ,40-64,M  ,      2773
+Kansas City  ,CONGEN     , <18 ,F  ,      1210
+Kansas City  ,CONGEN     , <18 ,M  ,      1438
+Kansas City  ,CONGEN     ,18-39,F  ,       743
+Kansas City  ,CONGEN     ,18-39,M  ,       793
+Kansas City  ,CONGEN     ,40-64,F  ,       112
+Kansas City  ,CONGEN     ,40-64,M  ,        84
+Kansas City  ,DEVELOP    , <18 ,F  ,      3013
+Kansas City  ,DEVELOP    , <18 ,M  ,      6671
+Kansas City  ,DEVELOP    ,18-39,F  ,       272
+Kansas City  ,DEVELOP    ,18-39,M  ,       483
+Kansas City  ,DEVELOP    ,40-64,F  ,        33
+Kansas City  ,DEVELOP    ,40-64,M  ,        29
+Kansas City  ,DIGEST     , <18 ,F  ,       260
+Kansas City  ,DIGEST     , <18 ,M  ,       337
+Kansas City  ,DIGEST     ,18-39,F  ,       185
+Kansas City  ,DIGEST     ,18-39,M  ,       123
+Kansas City  ,DIGEST     ,40-64,F  ,       815
+Kansas City  ,DIGEST     ,40-64,M  ,       657
+Kansas City  ,ENDOCR     , <18 ,F  ,       150
+Kansas City  ,ENDOCR     , <18 ,M  ,       169
+Kansas City  ,ENDOCR     ,18-39,F  ,       544
+Kansas City  ,ENDOCR     ,18-39,M  ,       369
+Kansas City  ,ENDOCR     ,40-64,F  ,      3707
+Kansas City  ,ENDOCR     ,40-64,M  ,      1203
+Kansas City  ,GENITO     , <18 ,F  ,        50
+Kansas City  ,GENITO     , <18 ,M  ,        69
+Kansas City  ,GENITO     ,18-39,F  ,       221
+Kansas City  ,GENITO     ,18-39,M  ,       254
+Kansas City  ,GENITO     ,40-64,F  ,       452
+Kansas City  ,GENITO     ,40-64,M  ,       424
+Kansas City  ,INFECT     , <18 ,F  ,        20
+Kansas City  ,INFECT     , <18 ,M  ,        14
+Kansas City  ,INFECT     ,18-39,F  ,        94
+Kansas City  ,INFECT     ,18-39,M  ,       127
+Kansas City  ,INFECT     ,40-64,F  ,       328
+Kansas City  ,INFECT     ,40-64,M  ,       533
+Kansas City  ,INJURY     , <18 ,F  ,       141
+Kansas City  ,INJURY     , <18 ,M  ,       188
+Kansas City  ,INJURY     ,18-39,F  ,       544
+Kansas City  ,INJURY     ,18-39,M  ,      1106
+Kansas City  ,INJURY     ,40-64,F  ,      1305
+Kansas City  ,INJURY     ,40-64,M  ,      1896
+Kansas City  ,INTELLECT  , <18 ,F  ,      1878
+Kansas City  ,INTELLECT  , <18 ,M  ,      3019
+Kansas City  ,INTELLECT  ,18-39,F  ,     11302
+Kansas City  ,INTELLECT  ,18-39,M  ,     12013
+Kansas City  ,INTELLECT  ,40-64,F  ,      9379
+Kansas City  ,INTELLECT  ,40-64,M  ,      7980
+Kansas City  ,MENTALOTHER, <18 ,F  ,       406
+Kansas City  ,MENTALOTHER, <18 ,M  ,       693
+Kansas City  ,MENTALOTHER,18-39,F  ,      2797
+Kansas City  ,MENTALOTHER,18-39,M  ,      2508
+Kansas City  ,MENTALOTHER,40-64,F  ,      4108
+Kansas City  ,MENTALOTHER,40-64,M  ,      2229
+Kansas City  ,MOOD       , <18 ,F  ,       607
+Kansas City  ,MOOD       , <18 ,M  ,      1144
+Kansas City  ,MOOD       ,18-39,F  ,      5736
+Kansas City  ,MOOD       ,18-39,M  ,      3291
+Kansas City  ,MOOD       ,40-64,F  ,     12603
+Kansas City  ,MOOD       ,40-64,M  ,      4112
+Kansas City  ,MUSCUL     , <18 ,F  ,       169
+Kansas City  ,MUSCUL     , <18 ,M  ,       157
+Kansas City  ,MUSCUL     ,18-39,F  ,      1422
+Kansas City  ,MUSCUL     ,18-39,M  ,       764
+Kansas City  ,MUSCUL     ,40-64,F  ,     11978
+Kansas City  ,MUSCUL     ,40-64,M  ,      7076
+Kansas City  ,NEOPLA     , <18 ,F  ,       239
+Kansas City  ,NEOPLA     , <18 ,M  ,       321
+Kansas City  ,NEOPLA     ,18-39,F  ,       261
+Kansas City  ,NEOPLA     ,18-39,M  ,       227
+Kansas City  ,NEOPLA     ,40-64,F  ,       941
+Kansas City  ,NEOPLA     ,40-64,M  ,       731
+Kansas City  ,NERVOUS    , <18 ,F  ,      1645
+Kansas City  ,NERVOUS    , <18 ,M  ,      2135
+Kansas City  ,NERVOUS    ,18-39,F  ,      3491
+Kansas City  ,NERVOUS    ,18-39,M  ,      3824
+Kansas City  ,NERVOUS    ,40-64,F  ,      3872
+Kansas City  ,NERVOUS    ,40-64,M  ,      2590
+Kansas City  ,ORGANIC    , <18 ,F  ,       202
+Kansas City  ,ORGANIC    , <18 ,M  ,       431
+Kansas City  ,ORGANIC    ,18-39,F  ,      1149
+Kansas City  ,ORGANIC    ,18-39,M  ,      1937
+Kansas City  ,ORGANIC    ,40-64,F  ,      1514
+Kansas City  ,ORGANIC    ,40-64,M  ,      1901
+Kansas City  ,OTHER      , <18 ,F  ,      1703
+Kansas City  ,OTHER      , <18 ,M  ,      1962
+Kansas City  ,OTHER      ,18-39,F  ,       117
+Kansas City  ,OTHER      ,18-39,M  ,       174
+Kansas City  ,OTHER      ,40-64,F  ,        60
+Kansas City  ,OTHER      ,40-64,M  ,        51
+Kansas City  ,RESPIR     , <18 ,F  ,       282
+Kansas City  ,RESPIR     , <18 ,M  ,       515
+Kansas City  ,RESPIR     ,18-39,F  ,       217
+Kansas City  ,RESPIR     ,18-39,M  ,        94
+Kansas City  ,RESPIR     ,40-64,F  ,      2229
+Kansas City  ,RESPIR     ,40-64,M  ,      1313
+Kansas City  ,SCHIZO     , <18 ,F  ,        44
+Kansas City  ,SCHIZO     , <18 ,M  ,        93
+Kansas City  ,SCHIZO     ,18-39,F  ,      1317
+Kansas City  ,SCHIZO     ,18-39,M  ,      3365
+Kansas City  ,SCHIZO     ,40-64,F  ,      3958
+Kansas City  ,SCHIZO     ,40-64,M  ,      4744
+Kansas City  ,SKIN       , <18 ,F  ,        25
+Kansas City  ,SKIN       , <18 ,M  ,        40
+Kansas City  ,SKIN       ,18-39,F  ,        51
+Kansas City  ,SKIN       ,18-39,M  ,        27
+Kansas City  ,SKIN       ,40-64,F  ,       118
+Kansas City  ,SKIN       ,40-64,M  ,        68
+Kansas City  ,UNKNOWN    , <18 ,F  ,       285
+Kansas City  ,UNKNOWN    , <18 ,M  ,       417
+Kansas City  ,UNKNOWN    ,18-39,F  ,       454
+Kansas City  ,UNKNOWN    ,18-39,M  ,       422
+Kansas City  ,UNKNOWN    ,40-64,F  ,      2271
+Kansas City  ,UNKNOWN    ,40-64,M  ,      1715
+New York     ,AUTISTIC   , <18 ,F  ,      2177
+New York     ,AUTISTIC   , <18 ,M  ,      8771
+New York     ,AUTISTIC   ,18-39,F  ,      1163
+New York     ,AUTISTIC   ,18-39,M  ,      4910
+New York     ,AUTISTIC   ,40-64,F  ,        67
+New York     ,AUTISTIC   ,40-64,M  ,       196
+New York     ,BLOOD      , <18 ,F  ,       586
+New York     ,BLOOD      , <18 ,M  ,       726
+New York     ,BLOOD      ,18-39,F  ,       689
+New York     ,BLOOD      ,18-39,M  ,       686
+New York     ,BLOOD      ,40-64,F  ,       545
+New York     ,BLOOD      ,40-64,M  ,       248
+New York     ,CHILDHOOD  , <18 ,F  ,      3513
+New York     ,CHILDHOOD  , <18 ,M  ,     14272
+New York     ,CHILDHOOD  ,18-39,F  ,       815
+New York     ,CHILDHOOD  ,18-39,M  ,      2761
+New York     ,CHILDHOOD  ,40-64,F  ,        54
+New York     ,CHILDHOOD  ,40-64,M  ,        73
+New York     ,CIRCUL     , <18 ,F  ,       178
+New York     ,CIRCUL     , <18 ,M  ,       204
+New York     ,CIRCUL     ,18-39,F  ,       658
+New York     ,CIRCUL     ,18-39,M  ,       684
+New York     ,CIRCUL     ,40-64,F  ,      9916
+New York     ,CIRCUL     ,40-64,M  ,      9840
+New York     ,CONGEN     , <18 ,F  ,      2381
+New York     ,CONGEN     , <18 ,M  ,      2759
+New York     ,CONGEN     ,18-39,F  ,      1075
+New York     ,CONGEN     ,18-39,M  ,      1158
+New York     ,CONGEN     ,40-64,F  ,       320
+New York     ,CONGEN     ,40-64,M  ,       262
+New York     ,DEVELOP    , <18 ,F  ,      8874
+New York     ,DEVELOP    , <18 ,M  ,     20173
+New York     ,DEVELOP    ,18-39,F  ,      1720
+New York     ,DEVELOP    ,18-39,M  ,      2636
+New York     ,DEVELOP    ,40-64,F  ,       412
+New York     ,DEVELOP    ,40-64,M  ,       409
+New York     ,DIGEST     , <18 ,F  ,       264
+New York     ,DIGEST     , <18 ,M  ,       329
+New York     ,DIGEST     ,18-39,F  ,       297
+New York     ,DIGEST     ,18-39,M  ,       266
+New York     ,DIGEST     ,40-64,F  ,      1593
+New York     ,DIGEST     ,40-64,M  ,      1853
+New York     ,ENDOCR     , <18 ,F  ,       355
+New York     ,ENDOCR     , <18 ,M  ,       362
+New York     ,ENDOCR     ,18-39,F  ,       699
+New York     ,ENDOCR     ,18-39,M  ,       513
+New York     ,ENDOCR     ,40-64,F  ,      6540
+New York     ,ENDOCR     ,40-64,M  ,      2966
+New York     ,GENITO     , <18 ,F  ,       121
+New York     ,GENITO     , <18 ,M  ,       187
+New York     ,GENITO     ,18-39,F  ,       585
+New York     ,GENITO     ,18-39,M  ,       639
+New York     ,GENITO     ,40-64,F  ,      1504
+New York     ,GENITO     ,40-64,M  ,      1754
+New York     ,INFECT     , <18 ,F  ,       140
+New York     ,INFECT     , <18 ,M  ,       130
+New York     ,INFECT     ,18-39,F  ,       730
+New York     ,INFECT     ,18-39,M  ,       776
+New York     ,INFECT     ,40-64,F  ,      5811
+New York     ,INFECT     ,40-64,M  ,      7261
+New York     ,INJURY     , <18 ,F  ,       193
+New York     ,INJURY     , <18 ,M  ,       238
+New York     ,INJURY     ,18-39,F  ,       793
+New York     ,INJURY     ,18-39,M  ,      1896
+New York     ,INJURY     ,40-64,F  ,      3149
+New York     ,INJURY     ,40-64,M  ,      4661
+New York     ,INTELLECT  , <18 ,F  ,      3709
+New York     ,INTELLECT  , <18 ,M  ,      6640
+New York     ,INTELLECT  ,18-39,F  ,     20450
+New York     ,INTELLECT  ,18-39,M  ,     24059
+New York     ,INTELLECT  ,40-64,F  ,     16372
+New York     ,INTELLECT  ,40-64,M  ,     16402
+New York     ,MENTALOTHER, <18 ,F  ,       854
+New York     ,MENTALOTHER, <18 ,M  ,      1607
+New York     ,MENTALOTHER,18-39,F  ,      4680
+New York     ,MENTALOTHER,18-39,M  ,      4502
+New York     ,MENTALOTHER,40-64,F  ,      9395
+New York     ,MENTALOTHER,40-64,M  ,      5144
+New York     ,MOOD       , <18 ,F  ,      1049
+New York     ,MOOD       , <18 ,M  ,      1679
+New York     ,MOOD       ,18-39,F  ,     12322
+New York     ,MOOD       ,18-39,M  ,      8312
+New York     ,MOOD       ,40-64,F  ,     38897
+New York     ,MOOD       ,40-64,M  ,     16020
+New York     ,MUSCUL     , <18 ,F  ,       387
+New York     ,MUSCUL     , <18 ,M  ,       413
+New York     ,MUSCUL     ,18-39,F  ,      3042
+New York     ,MUSCUL     ,18-39,M  ,      1699
+New York     ,MUSCUL     ,40-64,F  ,     35114
+New York     ,MUSCUL     ,40-64,M  ,     19207
+New York     ,NEOPLA     , <18 ,F  ,       561
+New York     ,NEOPLA     , <18 ,M  ,       647
+New York     ,NEOPLA     ,18-39,F  ,       574
+New York     ,NEOPLA     ,18-39,M  ,       550
+New York     ,NEOPLA     ,40-64,F  ,      2960
+New York     ,NEOPLA     ,40-64,M  ,      1955
+New York     ,NERVOUS    , <18 ,F  ,      3384
+New York     ,NERVOUS    , <18 ,M  ,      4155
+New York     ,NERVOUS    ,18-39,F  ,      7473
+New York     ,NERVOUS    ,18-39,M  ,      7704
+New York     ,NERVOUS    ,40-64,F  ,     10575
+New York     ,NERVOUS    ,40-64,M  ,      7713
+New York     ,ORGANIC    , <18 ,F  ,       529
+New York     ,ORGANIC    , <18 ,M  ,      1023
+New York     ,ORGANIC    ,18-39,F  ,      1590
+New York     ,ORGANIC    ,18-39,M  ,      3033
+New York     ,ORGANIC    ,40-64,F  ,      2902
+New York     ,ORGANIC    ,40-64,M  ,      3803
+New York     ,OTHER      , <18 ,F  ,      3637
+New York     ,OTHER      , <18 ,M  ,      4481
+New York     ,OTHER      ,18-39,F  ,       314
+New York     ,OTHER      ,18-39,M  ,       355
+New York     ,OTHER      ,40-64,F  ,       195
+New York     ,OTHER      ,40-64,M  ,       165
+New York     ,RESPIR     , <18 ,F  ,      1505
+New York     ,RESPIR     , <18 ,M  ,      2670
+New York     ,RESPIR     ,18-39,F  ,       802
+New York     ,RESPIR     ,18-39,M  ,       533
+New York     ,RESPIR     ,40-64,F  ,      6381
+New York     ,RESPIR     ,40-64,M  ,      2797
+New York     ,SCHIZO     , <18 ,F  ,       163
+New York     ,SCHIZO     , <18 ,M  ,       316
+New York     ,SCHIZO     ,18-39,F  ,      4170
+New York     ,SCHIZO     ,18-39,M  ,      9900
+New York     ,SCHIZO     ,40-64,F  ,     15930
+New York     ,SCHIZO     ,40-64,M  ,     21532
+New York     ,SKIN       , <18 ,F  ,        56
+New York     ,SKIN       , <18 ,M  ,        77
+New York     ,SKIN       ,18-39,F  ,       103
+New York     ,SKIN       ,18-39,M  ,        74
+New York     ,SKIN       ,40-64,F  ,       297
+New York     ,SKIN       ,40-64,M  ,       177
+New York     ,UNKNOWN    , <18 ,F  ,       738
+New York     ,UNKNOWN    , <18 ,M  ,      1203
+New York     ,UNKNOWN    ,18-39,F  ,      1024
+New York     ,UNKNOWN    ,18-39,M  ,      1036
+New York     ,UNKNOWN    ,40-64,F  ,      8659
+New York     ,UNKNOWN    ,40-64,M  ,      6308
+Philadelphia ,AUTISTIC   , <18 ,F  ,      2108
+Philadelphia ,AUTISTIC   , <18 ,M  ,      8568
+Philadelphia ,AUTISTIC   ,18-39,F  ,       951
+Philadelphia ,AUTISTIC   ,18-39,M  ,      4476
+Philadelphia ,AUTISTIC   ,40-64,F  ,        42
+Philadelphia ,AUTISTIC   ,40-64,M  ,       110
+Philadelphia ,BLOOD      , <18 ,F  ,       546
+Philadelphia ,BLOOD      , <18 ,M  ,       683
+Philadelphia ,BLOOD      ,18-39,F  ,       602
+Philadelphia ,BLOOD      ,18-39,M  ,       544
+Philadelphia ,BLOOD      ,40-64,F  ,       417
+Philadelphia ,BLOOD      ,40-64,M  ,       206
+Philadelphia ,CHILDHOOD  , <18 ,F  ,      9186
+Philadelphia ,CHILDHOOD  , <18 ,M  ,     29098
+Philadelphia ,CHILDHOOD  ,18-39,F  ,      1680
+Philadelphia ,CHILDHOOD  ,18-39,M  ,      4758
+Philadelphia ,CHILDHOOD  ,40-64,F  ,        83
+Philadelphia ,CHILDHOOD  ,40-64,M  ,        86
+Philadelphia ,CIRCUL     , <18 ,F  ,       248
+Philadelphia ,CIRCUL     , <18 ,M  ,       271
+Philadelphia ,CIRCUL     ,18-39,F  ,       745
+Philadelphia ,CIRCUL     ,18-39,M  ,       686
+Philadelphia ,CIRCUL     ,40-64,F  ,      8436
+Philadelphia ,CIRCUL     ,40-64,M  ,      8533
+Philadelphia ,CONGEN     , <18 ,F  ,      2114
+Philadelphia ,CONGEN     , <18 ,M  ,      2549
+Philadelphia ,CONGEN     ,18-39,F  ,      1423
+Philadelphia ,CONGEN     ,18-39,M  ,      1406
+Philadelphia ,CONGEN     ,40-64,F  ,       261
+Philadelphia ,CONGEN     ,40-64,M  ,       210
+Philadelphia ,DEVELOP    , <18 ,F  ,      6027
+Philadelphia ,DEVELOP    , <18 ,M  ,     12848
+Philadelphia ,DEVELOP    ,18-39,F  ,      1029
+Philadelphia ,DEVELOP    ,18-39,M  ,      1553
+Philadelphia ,DEVELOP    ,40-64,F  ,       156
+Philadelphia ,DEVELOP    ,40-64,M  ,       164
+Philadelphia ,DIGEST     , <18 ,F  ,       468
+Philadelphia ,DIGEST     , <18 ,M  ,       571
+Philadelphia ,DIGEST     ,18-39,F  ,       464
+Philadelphia ,DIGEST     ,18-39,M  ,       380
+Philadelphia ,DIGEST     ,40-64,F  ,      1795
+Philadelphia ,DIGEST     ,40-64,M  ,      1730
+Philadelphia ,ENDOCR     , <18 ,F  ,       329
+Philadelphia ,ENDOCR     , <18 ,M  ,       338
+Philadelphia ,ENDOCR     ,18-39,F  ,      1069
+Philadelphia ,ENDOCR     ,18-39,M  ,       681
+Philadelphia ,ENDOCR     ,40-64,F  ,      8501
+Philadelphia ,ENDOCR     ,40-64,M  ,      3090
+Philadelphia ,GENITO     , <18 ,F  ,       111
+Philadelphia ,GENITO     , <18 ,M  ,       171
+Philadelphia ,GENITO     ,18-39,F  ,       620
+Philadelphia ,GENITO     ,18-39,M  ,       732
+Philadelphia ,GENITO     ,40-64,F  ,      1425
+Philadelphia ,GENITO     ,40-64,M  ,      1529
+Philadelphia ,INFECT     , <18 ,F  ,        87
+Philadelphia ,INFECT     , <18 ,M  ,        83
+Philadelphia ,INFECT     ,18-39,F  ,       506
+Philadelphia ,INFECT     ,18-39,M  ,       544
+Philadelphia ,INFECT     ,40-64,F  ,      2730
+Philadelphia ,INFECT     ,40-64,M  ,      3169
+Philadelphia ,INJURY     , <18 ,F  ,       228
+Philadelphia ,INJURY     , <18 ,M  ,       334
+Philadelphia ,INJURY     ,18-39,F  ,      1017
+Philadelphia ,INJURY     ,18-39,M  ,      2281
+Philadelphia ,INJURY     ,40-64,F  ,      3335
+Philadelphia ,INJURY     ,40-64,M  ,      4736
+Philadelphia ,INTELLECT  , <18 ,F  ,      5023
+Philadelphia ,INTELLECT  , <18 ,M  ,      7770
+Philadelphia ,INTELLECT  ,18-39,F  ,     28590
+Philadelphia ,INTELLECT  ,18-39,M  ,     30985
+Philadelphia ,INTELLECT  ,40-64,F  ,     26441
+Philadelphia ,INTELLECT  ,40-64,M  ,     23357
+Philadelphia ,MENTALOTHER, <18 ,F  ,      1556
+Philadelphia ,MENTALOTHER, <18 ,M  ,      2480
+Philadelphia ,MENTALOTHER,18-39,F  ,      5708
+Philadelphia ,MENTALOTHER,18-39,M  ,      4983
+Philadelphia ,MENTALOTHER,40-64,F  ,      9073
+Philadelphia ,MENTALOTHER,40-64,M  ,      5051
+Philadelphia ,MOOD       , <18 ,F  ,      2153
+Philadelphia ,MOOD       , <18 ,M  ,      2984
+Philadelphia ,MOOD       ,18-39,F  ,     18189
+Philadelphia ,MOOD       ,18-39,M  ,      9730
+Philadelphia ,MOOD       ,40-64,F  ,     37361
+Philadelphia ,MOOD       ,40-64,M  ,     13636
+Philadelphia ,MUSCUL     , <18 ,F  ,       381
+Philadelphia ,MUSCUL     , <18 ,M  ,       399
+Philadelphia ,MUSCUL     ,18-39,F  ,      2900
+Philadelphia ,MUSCUL     ,18-39,M  ,      1657
+Philadelphia ,MUSCUL     ,40-64,F  ,     29851
+Philadelphia ,MUSCUL     ,40-64,M  ,     17340
+Philadelphia ,NEOPLA     , <18 ,F  ,       488
+Philadelphia ,NEOPLA     , <18 ,M  ,       624
+Philadelphia ,NEOPLA     ,18-39,F  ,       534
+Philadelphia ,NEOPLA     ,18-39,M  ,       516
+Philadelphia ,NEOPLA     ,40-64,F  ,      2578
+Philadelphia ,NEOPLA     ,40-64,M  ,      1805
+Philadelphia ,NERVOUS    , <18 ,F  ,      3429
+Philadelphia ,NERVOUS    , <18 ,M  ,      4094
+Philadelphia ,NERVOUS    ,18-39,F  ,      7566
+Philadelphia ,NERVOUS    ,18-39,M  ,      8039
+Philadelphia ,NERVOUS    ,40-64,F  ,      9787
+Philadelphia ,NERVOUS    ,40-64,M  ,      6685
+Philadelphia ,ORGANIC    , <18 ,F  ,      1427
+Philadelphia ,ORGANIC    , <18 ,M  ,      3109
+Philadelphia ,ORGANIC    ,18-39,F  ,      2868
+Philadelphia ,ORGANIC    ,18-39,M  ,      5024
+Philadelphia ,ORGANIC    ,40-64,F  ,      4188
+Philadelphia ,ORGANIC    ,40-64,M  ,      5314
+Philadelphia ,OTHER      , <18 ,F  ,      4276
+Philadelphia ,OTHER      , <18 ,M  ,      4640
+Philadelphia ,OTHER      ,18-39,F  ,       274
+Philadelphia ,OTHER      ,18-39,M  ,       366
+Philadelphia ,OTHER      ,40-64,F  ,       347
+Philadelphia ,OTHER      ,40-64,M  ,       142
+Philadelphia ,RESPIR     , <18 ,F  ,      1252
+Philadelphia ,RESPIR     , <18 ,M  ,      2102
+Philadelphia ,RESPIR     ,18-39,F  ,       616
+Philadelphia ,RESPIR     ,18-39,M  ,       367
+Philadelphia ,RESPIR     ,40-64,F  ,      6088
+Philadelphia ,RESPIR     ,40-64,M  ,      2893
+Philadelphia ,SCHIZO     , <18 ,F  ,       149
+Philadelphia ,SCHIZO     , <18 ,M  ,       205
+Philadelphia ,SCHIZO     ,18-39,F  ,      3635
+Philadelphia ,SCHIZO     ,18-39,M  ,      7307
+Philadelphia ,SCHIZO     ,40-64,F  ,     12657
+Philadelphia ,SCHIZO     ,40-64,M  ,     14729
+Philadelphia ,SKIN       , <18 ,F  ,        59
+Philadelphia ,SKIN       , <18 ,M  ,        85
+Philadelphia ,SKIN       ,18-39,F  ,       140
+Philadelphia ,SKIN       ,18-39,M  ,        85
+Philadelphia ,SKIN       ,40-64,F  ,       314
+Philadelphia ,SKIN       ,40-64,M  ,       188
+Philadelphia ,UNKNOWN    , <18 ,F  ,      1046
+Philadelphia ,UNKNOWN    , <18 ,M  ,      1588
+Philadelphia ,UNKNOWN    ,18-39,F  ,      1448
+Philadelphia ,UNKNOWN    ,18-39,M  ,      1321
+Philadelphia ,UNKNOWN    ,40-64,F  ,      9214
+Philadelphia ,UNKNOWN    ,40-64,M  ,      6520
+San Francisco,AUTISTIC   , <18 ,F  ,      3046
+San Francisco,AUTISTIC   , <18 ,M  ,     13149
+San Francisco,AUTISTIC   ,18-39,F  ,      1497
+San Francisco,AUTISTIC   ,18-39,M  ,      6408
+San Francisco,AUTISTIC   ,40-64,F  ,       124
+San Francisco,AUTISTIC   ,40-64,M  ,       333
+San Francisco,BLOOD      , <18 ,F  ,       415
+San Francisco,BLOOD      , <18 ,M  ,       568
+San Francisco,BLOOD      ,18-39,F  ,       533
+San Francisco,BLOOD      ,18-39,M  ,       512
+San Francisco,BLOOD      ,40-64,F  ,       570
+San Francisco,BLOOD      ,40-64,M  ,       284
+San Francisco,CHILDHOOD  , <18 ,F  ,      3263
+San Francisco,CHILDHOOD  , <18 ,M  ,     13376
+San Francisco,CHILDHOOD  ,18-39,F  ,       786
+San Francisco,CHILDHOOD  ,18-39,M  ,      2959
+San Francisco,CHILDHOOD  ,40-64,F  ,       103
+San Francisco,CHILDHOOD  ,40-64,M  ,       117
+San Francisco,CIRCUL     , <18 ,F  ,       301
+San Francisco,CIRCUL     , <18 ,M  ,       407
+San Francisco,CIRCUL     ,18-39,F  ,       959
+San Francisco,CIRCUL     ,18-39,M  ,      1045
+San Francisco,CIRCUL     ,40-64,F  ,     11634
+San Francisco,CIRCUL     ,40-64,M  ,     14209
+San Francisco,CONGEN     , <18 ,F  ,      5716
+San Francisco,CONGEN     , <18 ,M  ,      6781
+San Francisco,CONGEN     ,18-39,F  ,      2348
+San Francisco,CONGEN     ,18-39,M  ,      2617
+San Francisco,CONGEN     ,40-64,F  ,       550
+San Francisco,CONGEN     ,40-64,M  ,       448
+San Francisco,DEVELOP    , <18 ,F  ,      7338
+San Francisco,DEVELOP    , <18 ,M  ,     16242
+San Francisco,DEVELOP    ,18-39,F  ,      1435
+San Francisco,DEVELOP    ,18-39,M  ,      2408
+San Francisco,DEVELOP    ,40-64,F  ,       273
+San Francisco,DEVELOP    ,40-64,M  ,       284
+San Francisco,DIGEST     , <18 ,F  ,       824
+San Francisco,DIGEST     , <18 ,M  ,       942
+San Francisco,DIGEST     ,18-39,F  ,       439
+San Francisco,DIGEST     ,18-39,M  ,       425
+San Francisco,DIGEST     ,40-64,F  ,      3334
+San Francisco,DIGEST     ,40-64,M  ,      3668
+San Francisco,ENDOCR     , <18 ,F  ,       408
+San Francisco,ENDOCR     , <18 ,M  ,       436
+San Francisco,ENDOCR     ,18-39,F  ,       832
+San Francisco,ENDOCR     ,18-39,M  ,       762
+San Francisco,ENDOCR     ,40-64,F  ,     10609
+San Francisco,ENDOCR     ,40-64,M  ,      5372
+San Francisco,GENITO     , <18 ,F  ,       199
+San Francisco,GENITO     , <18 ,M  ,       264
+San Francisco,GENITO     ,18-39,F  ,      1149
+San Francisco,GENITO     ,18-39,M  ,      1177
+San Francisco,GENITO     ,40-64,F  ,      3192
+San Francisco,GENITO     ,40-64,M  ,      3366
+San Francisco,INFECT     , <18 ,F  ,        67
+San Francisco,INFECT     , <18 ,M  ,        76
+San Francisco,INFECT     ,18-39,F  ,       438
+San Francisco,INFECT     ,18-39,M  ,       852
+San Francisco,INFECT     ,40-64,F  ,      2763
+San Francisco,INFECT     ,40-64,M  ,      6292
+San Francisco,INJURY     , <18 ,F  ,       400
+San Francisco,INJURY     , <18 ,M  ,       521
+San Francisco,INJURY     ,18-39,F  ,      1538
+San Francisco,INJURY     ,18-39,M  ,      3948
+San Francisco,INJURY     ,40-64,F  ,      6202
+San Francisco,INJURY     ,40-64,M  ,      9801
+San Francisco,INTELLECT  , <18 ,F  ,      6989
+San Francisco,INTELLECT  , <18 ,M  ,     11616
+San Francisco,INTELLECT  ,18-39,F  ,     30056
+San Francisco,INTELLECT  ,18-39,M  ,     34035
+San Francisco,INTELLECT  ,40-64,F  ,     20178
+San Francisco,INTELLECT  ,40-64,M  ,     19272
+San Francisco,MENTALOTHER, <18 ,F  ,      1204
+San Francisco,MENTALOTHER, <18 ,M  ,      2298
+San Francisco,MENTALOTHER,18-39,F  ,      5697
+San Francisco,MENTALOTHER,18-39,M  ,      5780
+San Francisco,MENTALOTHER,40-64,F  ,     12972
+San Francisco,MENTALOTHER,40-64,M  ,      8113
+San Francisco,MOOD       , <18 ,F  ,      1211
+San Francisco,MOOD       , <18 ,M  ,      2225
+San Francisco,MOOD       ,18-39,F  ,     19084
+San Francisco,MOOD       ,18-39,M  ,     13096
+San Francisco,MOOD       ,40-64,F  ,     68666
+San Francisco,MOOD       ,40-64,M  ,     29792
+San Francisco,MUSCUL     , <18 ,F  ,       585
+San Francisco,MUSCUL     , <18 ,M  ,       531
+San Francisco,MUSCUL     ,18-39,F  ,      3513
+San Francisco,MUSCUL     ,18-39,M  ,      2133
+San Francisco,MUSCUL     ,40-64,F  ,     52621
+San Francisco,MUSCUL     ,40-64,M  ,     33601
+San Francisco,NEOPLA     , <18 ,F  ,      1165
+San Francisco,NEOPLA     , <18 ,M  ,      1423
+San Francisco,NEOPLA     ,18-39,F  ,       897
+San Francisco,NEOPLA     ,18-39,M  ,       965
+San Francisco,NEOPLA     ,40-64,F  ,      4640
+San Francisco,NEOPLA     ,40-64,M  ,      2956
+San Francisco,NERVOUS    , <18 ,F  ,      6409
+San Francisco,NERVOUS    , <18 ,M  ,      8106
+San Francisco,NERVOUS    ,18-39,F  ,     12776
+San Francisco,NERVOUS    ,18-39,M  ,     14199
+San Francisco,NERVOUS    ,40-64,F  ,     18715
+San Francisco,NERVOUS    ,40-64,M  ,     15793
+San Francisco,ORGANIC    , <18 ,F  ,      1407
+San Francisco,ORGANIC    , <18 ,M  ,      2721
+San Francisco,ORGANIC    ,18-39,F  ,      4511
+San Francisco,ORGANIC    ,18-39,M  ,      8253
+San Francisco,ORGANIC    ,40-64,F  ,      9228
+San Francisco,ORGANIC    ,40-64,M  ,     12728
+San Francisco,OTHER      , <18 ,F  ,      5353
+San Francisco,OTHER      , <18 ,M  ,      7202
+San Francisco,OTHER      ,18-39,F  ,       599
+San Francisco,OTHER      ,18-39,M  ,       733
+San Francisco,OTHER      ,40-64,F  ,       411
+San Francisco,OTHER      ,40-64,M  ,       307
+San Francisco,RESPIR     , <18 ,F  ,      1212
+San Francisco,RESPIR     , <18 ,M  ,      2116
+San Francisco,RESPIR     ,18-39,F  ,       554
+San Francisco,RESPIR     ,18-39,M  ,       408
+San Francisco,RESPIR     ,40-64,F  ,      5497
+San Francisco,RESPIR     ,40-64,M  ,      3251
+San Francisco,SCHIZO     , <18 ,F  ,       207
+San Francisco,SCHIZO     , <18 ,M  ,       351
+San Francisco,SCHIZO     ,18-39,F  ,      8238
+San Francisco,SCHIZO     ,18-39,M  ,     20431
+San Francisco,SCHIZO     ,40-64,F  ,     26076
+San Francisco,SCHIZO     ,40-64,M  ,     38054
+San Francisco,SKIN       , <18 ,F  ,       115
+San Francisco,SKIN       , <18 ,M  ,       115
+San Francisco,SKIN       ,18-39,F  ,       155
+San Francisco,SKIN       ,18-39,M  ,       106
+San Francisco,SKIN       ,40-64,F  ,       456
+San Francisco,SKIN       ,40-64,M  ,       339
+San Francisco,UNKNOWN    , <18 ,F  ,       850
+San Francisco,UNKNOWN    , <18 ,M  ,      1347
+San Francisco,UNKNOWN    ,18-39,F  ,      1206
+San Francisco,UNKNOWN    ,18-39,M  ,      1331
+San Francisco,UNKNOWN    ,40-64,F  ,     12782
+San Francisco,UNKNOWN    ,40-64,M  ,     10369
+Seattle      ,AUTISTIC   , <18 ,F  ,       822
+Seattle      ,AUTISTIC   , <18 ,M  ,      3619
+Seattle      ,AUTISTIC   ,18-39,F  ,       659
+Seattle      ,AUTISTIC   ,18-39,M  ,      2753
+Seattle      ,AUTISTIC   ,40-64,F  ,        46
+Seattle      ,AUTISTIC   ,40-64,M  ,        93
+Seattle      ,BLOOD      , <18 ,F  ,        51
+Seattle      ,BLOOD      , <18 ,M  ,        82
+Seattle      ,BLOOD      ,18-39,F  ,        54
+Seattle      ,BLOOD      ,18-39,M  ,        93
+Seattle      ,BLOOD      ,40-64,F  ,       101
+Seattle      ,BLOOD      ,40-64,M  ,        55
+Seattle      ,CHILDHOOD  , <18 ,F  ,      1014
+Seattle      ,CHILDHOOD  , <18 ,M  ,      3932
+Seattle      ,CHILDHOOD  ,18-39,F  ,       337
+Seattle      ,CHILDHOOD  ,18-39,M  ,      1142
+Seattle      ,CHILDHOOD  ,40-64,F  ,        69
+Seattle      ,CHILDHOOD  ,40-64,M  ,        64
+Seattle      ,CIRCUL     , <18 ,F  ,        81
+Seattle      ,CIRCUL     , <18 ,M  ,       112
+Seattle      ,CIRCUL     ,18-39,F  ,       218
+Seattle      ,CIRCUL     ,18-39,M  ,       219
+Seattle      ,CIRCUL     ,40-64,F  ,      1988
+Seattle      ,CIRCUL     ,40-64,M  ,      2284
+Seattle      ,CONGEN     , <18 ,F  ,      1026
+Seattle      ,CONGEN     , <18 ,M  ,      1204
+Seattle      ,CONGEN     ,18-39,F  ,       579
+Seattle      ,CONGEN     ,18-39,M  ,       628
+Seattle      ,CONGEN     ,40-64,F  ,       106
+Seattle      ,CONGEN     ,40-64,M  ,        80
+Seattle      ,DEVELOP    , <18 ,F  ,      1405
+Seattle      ,DEVELOP    , <18 ,M  ,      3055
+Seattle      ,DEVELOP    ,18-39,F  ,       230
+Seattle      ,DEVELOP    ,18-39,M  ,       333
+Seattle      ,DEVELOP    ,40-64,F  ,        48
+Seattle      ,DEVELOP    ,40-64,M  ,        51
+Seattle      ,DIGEST     , <18 ,F  ,       208
+Seattle      ,DIGEST     , <18 ,M  ,       286
+Seattle      ,DIGEST     ,18-39,F  ,       166
+Seattle      ,DIGEST     ,18-39,M  ,       126
+Seattle      ,DIGEST     ,40-64,F  ,       983
+Seattle      ,DIGEST     ,40-64,M  ,       798
+Seattle      ,ENDOCR     , <18 ,F  ,       124
+Seattle      ,ENDOCR     , <18 ,M  ,       124
+Seattle      ,ENDOCR     ,18-39,F  ,       376
+Seattle      ,ENDOCR     ,18-39,M  ,       257
+Seattle      ,ENDOCR     ,40-64,F  ,      2607
+Seattle      ,ENDOCR     ,40-64,M  ,       955
+Seattle      ,GENITO     , <18 ,F  ,        39
+Seattle      ,GENITO     , <18 ,M  ,        51
+Seattle      ,GENITO     ,18-39,F  ,       193
+Seattle      ,GENITO     ,18-39,M  ,       199
+Seattle      ,GENITO     ,40-64,F  ,       378
+Seattle      ,GENITO     ,40-64,M  ,       347
+Seattle      ,INFECT     , <18 ,F  ,        16
+Seattle      ,INFECT     , <18 ,M  ,        22
+Seattle      ,INFECT     ,18-39,F  ,        85
+Seattle      ,INFECT     ,18-39,M  ,       118
+Seattle      ,INFECT     ,40-64,F  ,       386
+Seattle      ,INFECT     ,40-64,M  ,       623
+Seattle      ,INJURY     , <18 ,F  ,       101
+Seattle      ,INJURY     , <18 ,M  ,       134
+Seattle      ,INJURY     ,18-39,F  ,       419
+Seattle      ,INJURY     ,18-39,M  ,       721
+Seattle      ,INJURY     ,40-64,F  ,      1299
+Seattle      ,INJURY     ,40-64,M  ,      1702
+Seattle      ,INTELLECT  , <18 ,F  ,      1256
+Seattle      ,INTELLECT  , <18 ,M  ,      1911
+Seattle      ,INTELLECT  ,18-39,F  ,      8280
+Seattle      ,INTELLECT  ,18-39,M  ,      8423
+Seattle      ,INTELLECT  ,40-64,F  ,      5431
+Seattle      ,INTELLECT  ,40-64,M  ,      4174
+Seattle      ,MENTALOTHER, <18 ,F  ,       464
+Seattle      ,MENTALOTHER, <18 ,M  ,       861
+Seattle      ,MENTALOTHER,18-39,F  ,      4020
+Seattle      ,MENTALOTHER,18-39,M  ,      3079
+Seattle      ,MENTALOTHER,40-64,F  ,      7085
+Seattle      ,MENTALOTHER,40-64,M  ,      3535
+Seattle      ,MOOD       , <18 ,F  ,       371
+Seattle      ,MOOD       , <18 ,M  ,       616
+Seattle      ,MOOD       ,18-39,F  ,      5102
+Seattle      ,MOOD       ,18-39,M  ,      3008
+Seattle      ,MOOD       ,40-64,F  ,     14008
+Seattle      ,MOOD       ,40-64,M  ,      5226
+Seattle      ,MUSCUL     , <18 ,F  ,       163
+Seattle      ,MUSCUL     , <18 ,M  ,       164
+Seattle      ,MUSCUL     ,18-39,F  ,       976
+Seattle      ,MUSCUL     ,18-39,M  ,       576
+Seattle      ,MUSCUL     ,40-64,F  ,     12098
+Seattle      ,MUSCUL     ,40-64,M  ,      8152
+Seattle      ,NEOPLA     , <18 ,F  ,       229
+Seattle      ,NEOPLA     , <18 ,M  ,       267
+Seattle      ,NEOPLA     ,18-39,F  ,       213
+Seattle      ,NEOPLA     ,18-39,M  ,       221
+Seattle      ,NEOPLA     ,40-64,F  ,       868
+Seattle      ,NEOPLA     ,40-64,M  ,       633
+Seattle      ,NERVOUS    , <18 ,F  ,      1522
+Seattle      ,NERVOUS    , <18 ,M  ,      1905
+Seattle      ,NERVOUS    ,18-39,F  ,      3157
+Seattle      ,NERVOUS    ,18-39,M  ,      3341
+Seattle      ,NERVOUS    ,40-64,F  ,      4073
+Seattle      ,NERVOUS    ,40-64,M  ,      2643
+Seattle      ,ORGANIC    , <18 ,F  ,       535
+Seattle      ,ORGANIC    , <18 ,M  ,      1070
+Seattle      ,ORGANIC    ,18-39,F  ,      1495
+Seattle      ,ORGANIC    ,18-39,M  ,      2486
+Seattle      ,ORGANIC    ,40-64,F  ,      2437
+Seattle      ,ORGANIC    ,40-64,M  ,      2787
+Seattle      ,OTHER      , <18 ,F  ,      1590
+Seattle      ,OTHER      , <18 ,M  ,      1943
+Seattle      ,OTHER      ,18-39,F  ,       141
+Seattle      ,OTHER      ,18-39,M  ,       183
+Seattle      ,OTHER      ,40-64,F  ,        80
+Seattle      ,OTHER      ,40-64,M  ,        68
+Seattle      ,RESPIR     , <18 ,F  ,       160
+Seattle      ,RESPIR     , <18 ,M  ,       304
+Seattle      ,RESPIR     ,18-39,F  ,       111
+Seattle      ,RESPIR     ,18-39,M  ,        78
+Seattle      ,RESPIR     ,40-64,F  ,      1584
+Seattle      ,RESPIR     ,40-64,M  ,      1036
+Seattle      ,SCHIZO     , <18 ,F  ,        25
+Seattle      ,SCHIZO     , <18 ,M  ,        58
+Seattle      ,SCHIZO     ,18-39,F  ,      1392
+Seattle      ,SCHIZO     ,18-39,M  ,      3819
+Seattle      ,SCHIZO     ,40-64,F  ,      4115
+Seattle      ,SCHIZO     ,40-64,M  ,      5603
+Seattle      ,SKIN       , <18 ,F  ,        28
+Seattle      ,SKIN       , <18 ,M  ,        28
+Seattle      ,SKIN       ,18-39,F  ,        36
+Seattle      ,SKIN       ,18-39,M  ,        34
+Seattle      ,SKIN       ,40-64,F  ,       131
+Seattle      ,SKIN       ,40-64,M  ,        92
+Seattle      ,UNKNOWN    , <18 ,F  ,       338
+Seattle      ,UNKNOWN    , <18 ,M  ,       422
+Seattle      ,UNKNOWN    ,18-39,F  ,       351
+Seattle      ,UNKNOWN    ,18-39,M  ,       339
+Seattle      ,UNKNOWN    ,40-64,F  ,      2293
+Seattle      ,UNKNOWN    ,40-64,M  ,      1533
