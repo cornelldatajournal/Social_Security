@@ -25,6 +25,6 @@ On the google doc with our draft, each figure has a google doc comment with the 
 
 
 ## Additional Notes 
-- Current figure colors and styles are PLACEHOLDERS. Please, standardize Colors and Chart Styles of all plots. WebDev/Editorial can choose the color palette and style to use. Potentially something similar to NYT data visualization styles. 
+- Current figure colors and styles are placeholders. Please, standardize Colors and Chart Styles of all plots. WebDev/Editorial can choose the color palette and style to use. Potentially something similar to NYT data visualization styles. 
 
 - Standardize title styles, x-y label styles, xticks, yticks as fit
